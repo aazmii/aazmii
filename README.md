@@ -8,4 +8,3 @@
 - 🕗 It's been about a year that I'm working in flutter
 - ⚡ Fun fact: I have long hair and I'm very passionate about it 😁 
 - 📫 Reach me on: [Facebook](https://www.facebook.com/anas.azmi.770 'Facebook') 
-- 📃 find more details about me on my resume ! [Anas Al Azmi.pdf](https://github.com/anasmj/anasmj/files/7576134/Anas.Al.Azmi.pdf)
