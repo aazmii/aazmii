@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning flutter 🧡
 
-- 🔭 I'm working on my projects
+- 🔭 I'm currently working on my projects
 - 👯 I’m looking to work in a company as a flutter developer or intern
 - 🕗 It's been about a year that I'm working in flutter
 - ⚡ Fun fact: I have long hair and I'm very passionate about it 😁 
