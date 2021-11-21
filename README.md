@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center"> A flutter programmer who is ready to work for you 🙋🏽‍♂️ </h1>
+<h1 align="center"> A flutter programmer who is ready to work for you 🙋‍♂️ </h1>
 
 
 ***
