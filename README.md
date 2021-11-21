@@ -1,4 +1,4 @@
-######################################################################## Hi there 👋 I'm Azmi 
+##                                                                                Hi there 👋 I'm Azmi 
 A flutter programmer 
 <!--
 **anasmj/anasmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
