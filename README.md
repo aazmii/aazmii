@@ -1,18 +1,16 @@
-<P align= 'center'>
-    # Hi 👋 I'm Azmi 
-</p> 
-A flutter programmer 
-<!--
-**anasmj/anasmj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center"> Hello.. I'm Azmi ! 👋😊</h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div style="text-align: center"> A flutter programmer who is ready to work for you!   </div>
+
+***
+
+
+- 🌱 I’m currently learning flutter 🧡
+
+- 🔭 I'm working on my own flutter projects
+- 👯 I’m looking to work in a company as a flutter developer or intern
+- 🕗 It's been about a year that I'm working in flutter
+- ⚡ Fun fact: I love reading and learning new things 
+- 📫 How to reach me: [Facebook](https://www.facebook.com/anas.azmi.770 'Facebook') , 
