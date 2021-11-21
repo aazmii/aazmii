@@ -5,9 +5,6 @@
 <h1 align="center"> A flutter programmer who is ready to work with you 🙋‍♂️ </h1>
 
 
-***
-
-
 - 🌱 I’m currently learning flutter 🧡
 
 - 🔭 I'm working on my projects
