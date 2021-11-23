@@ -9,4 +9,4 @@
 - ⚡ Fun fact: I have long hair and I'm very passionate about it 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
 
-<h2 align="center"> These are some basic apps that I've made so far ! 👇</h2>
+<h2 align="center"> These are some basic apps that I've made learning purpose ! 👇</h2>
