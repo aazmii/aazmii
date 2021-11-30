@@ -6,7 +6,7 @@
 - 🔭 I'm currently working on my projects
 - 👯 I’m looking to work in a company as a flutter developer or intern
 - 🕗 It's been about a year that I'm working in flutter
-- ⚡ Fun fact: I have long hair and I'm very passionate about it 😁 
+- ⚡ Fun fact: I'm passionate about my hair 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
 
 <h3 align="center"> 👇 These are some basic apps that I've made for learning purpose ! 👇</h3>
