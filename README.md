@@ -1,5 +1,5 @@
 <h2 align="center"> Hello.. I'm Azmi ! 👋😊</h2>
-<h1 align="center"> A flutter programmer who is ready to work with you 🙋‍♂️ </h1>
+<h1 align="center"> I am a flutter programmer from Dhaka! </h1>
 
 - 🌱 I’m currently learning flutter 🧡
 
