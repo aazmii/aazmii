@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I'm passionate about my hair 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
 
-<h3 align="center"> Have a nice day, wherever you are in the globe! 🌏✌ </h3>
+<h3 align="center"> Have a nice day, wherever you are in the globe! ✌🌏 </h3>
 
