@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning flutter 🧡
 
 - 🔭 I'm currently working on my projects
-- 👯 I’m looking to work in a company as a flutter developer or intern
+- 👯 I’m looking to work in a company as a flutter developer 
 - 🕗 It's been about a year that I'm working in flutter
 - ⚡ Fun fact: I'm passionate about my hair 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
