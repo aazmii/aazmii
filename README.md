@@ -1,5 +1,5 @@
 <h2 align="center"> Hello.. I'm Azmi ! 👋😊</h2>
-<h1 align="center"> I am a flutter programmer from Dhaka! </h1>
+<h1 align="center"> A flutter programmer who makes your life easy 😛 </h1>
 
 - 🌱 I’m currently learning flutter 🧡
 
@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I'm passionate about my hair 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
 
-<h3 align="center"> Have a nice day! </h3>
+<h3 align="center"> Stay motivated ! ✌💪 </h3>
 
