@@ -1,6 +1,6 @@
 <h2 align="center"> Hello.. I'm Azmi ! 👋😊</h2>
 <h1 align="center"> A flutter programmer </h1>
-<h3 align="center"> who makes your life easy 😛 </h3>
+<h3 align="center"> who can make your life easy 😛 </h3>
 
 - 🌱 I’m currently learning flutter 🧡
 
