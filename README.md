@@ -9,5 +9,5 @@
 - ⚡ Fun fact: I'm passionate about my hair 😁 
 - 📫 Reach me on: [Twitter](https://twitter.com/anas37796468), [Email]()
 
-<h3 align="center"> 👇 These are some basic apps that I've made for learning purpose ! 👇</h3>
+<h3 align="center"> Have a nice day! </h3>
 
