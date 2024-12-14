@@ -1,5 +1,5 @@
 <h2 align="center"> Hello! I'm Azmi 👋 </h2>
-<h3 align="center"> Flutter Developer, self learner, stident</h3>
+<h3 align="center"> Flutter Developer, self learner, student</h3>
    
 
 👨‍💻 with a love for building diverse and innovative projects. From mobile apps 📱 to cross-platform solutions 🌐, I strive to create high-quality, user-friendly applications.
