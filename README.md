@@ -4,7 +4,7 @@
 
 👨‍💻 with a love for building diverse and innovative projects. From mobile apps 📱 to cross-platform solutions 🌐, I strive to create high-quality, user-friendly applications.
 # 💫 About Me:
-🔭 I’m currently working on some flutter apps<br>👯 I’m looking to collaborate on open source projects   <br>🌱 I’m currently learning about backend frameworks <br>💬 Ask me about flutter and dart <br>🤖 I have interest in iOT <br>⚡ Fun fact - I like to read books ! 
+🔭 I’m currently working on some flutter apps<br>👯 I’m looking to collaborate on open source projects   <br>🌱 I’m currently learning about backend frameworks <br>💬 Ask me about flutter and dart <br>🤖 I have interest in iOT <br>⚡ Fun fact - I can do a backflip! 🤸
 
 
 ## 🌐 Socials: 
