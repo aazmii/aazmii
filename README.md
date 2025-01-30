@@ -1,8 +1,8 @@
 <h2 align="center"> Hello! I'm Azmi 👋 </h2>
-<h3 align="center"> Flutter Developer, self learner, student</h3>
+<h3 align="center"> A Flutter enthusiast</h3>
    
 
-👨‍💻 with a love for building diverse and innovative projects. From mobile apps 📱 to cross-platform solutions 🌐, I strive to create high-quality, user-friendly applications.
+<!--👨‍💻 with a love for building diverse and innovative projects. From mobile apps 📱 to cross-platform solutions 🌐, I strive to create high-quality, user-friendly applications.-->
 # 💫 About Me:
 🔭 I’m currently working on some flutter apps<br>👯 I’m looking to collaborate on open source projects   <br>🌱 I’m currently learning about backend frameworks <br>💬 Ask me about flutter and dart <br>🤖 I have interest in iOT <br>⚡ Fun fact - I can do a backflip! 🤸
 
